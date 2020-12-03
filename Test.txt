@@ -1,1 +1,2 @@
-Testing github lab.work #5
+
+Deleted upper string testing branch
